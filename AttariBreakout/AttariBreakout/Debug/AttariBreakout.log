@@ -1,0 +1,27 @@
+﻿  Ball.cpp
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.h(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.cpp(8): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.cpp(50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.cpp(54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.cpp(58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.cpp(65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.cpp(69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.cpp(73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.cpp(78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.cpp(141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bar.cpp
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\bar.cpp(17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  BreakoutGame.cpp
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.h(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\breakoutgame.cpp(89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\breakoutgame.cpp(90): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\breakoutgame.cpp(129): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\breakoutgame.cpp(131): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\breakoutgame.cpp(133): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Bricks.cpp
+  Resources.cpp
+  Source.cpp
+e:\semesters\3 third semester\oop\project\oop-project-ii\attaribreakout\attaribreakout\ball.h(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  AttariBreakout.vcxproj -> E:\Semesters\3 Third Semester\OOP\Project\OOP-Project-II\AttariBreakout\Debug\AttariBreakout.exe
